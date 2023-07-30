@@ -12,7 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "awesomedocs": "^2.0.1"
+        "awesomedocs": "^2.0.2"
     },
     "private": true
 }
